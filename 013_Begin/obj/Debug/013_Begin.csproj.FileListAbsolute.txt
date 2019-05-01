@@ -1,0 +1,6 @@
+C:\Users\shere\source\repos\1000_zadach\013_Begin\bin\Debug\013_Begin.exe.config
+C:\Users\shere\source\repos\1000_zadach\013_Begin\bin\Debug\013_Begin.exe
+C:\Users\shere\source\repos\1000_zadach\013_Begin\bin\Debug\013_Begin.pdb
+C:\Users\shere\source\repos\1000_zadach\013_Begin\obj\Debug\013_Begin.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\1000_zadach\013_Begin\obj\Debug\013_Begin.exe
+C:\Users\shere\source\repos\1000_zadach\013_Begin\obj\Debug\013_Begin.pdb
