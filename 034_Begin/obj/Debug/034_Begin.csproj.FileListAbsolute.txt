@@ -1,0 +1,7 @@
+C:\Users\shere\source\repos\1000_zadach\034_Begin\bin\Debug\034_Begin.exe.config
+C:\Users\shere\source\repos\1000_zadach\034_Begin\bin\Debug\034_Begin.exe
+C:\Users\shere\source\repos\1000_zadach\034_Begin\bin\Debug\034_Begin.pdb
+C:\Users\shere\source\repos\1000_zadach\034_Begin\obj\Debug\034_Begin.csprojAssemblyReference.cache
+C:\Users\shere\source\repos\1000_zadach\034_Begin\obj\Debug\034_Begin.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\1000_zadach\034_Begin\obj\Debug\034_Begin.exe
+C:\Users\shere\source\repos\1000_zadach\034_Begin\obj\Debug\034_Begin.pdb
